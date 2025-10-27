@@ -34,5 +34,3 @@ npm run preview
 Example:
 https://openlibrary.org/search.json?title=harry+potter
 
-## ChatGPT notes
-This project (files and setup) was generated with ChatGPT to satisfy a take-home challenge. Include this ChatGPT conversation link in your submission if required.
